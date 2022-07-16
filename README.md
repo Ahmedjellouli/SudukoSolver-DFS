@@ -20,10 +20,6 @@ the basic idea is to start from the root (typical Sudoku puzzle) and mark the no
   <img width="536" height="417" src="https://user-images.githubusercontent.com/90426606/179366317-b06edbe6-e6e5-4ded-9f27-a46646e0eb2a.png">
 </p>
 
-# CODE
-
-
-
 
 # Author
 
